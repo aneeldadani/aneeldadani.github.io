@@ -4,7 +4,7 @@ title: About me
 subtitle: whoami
 ---
 
-My name is Aneel Dadani. I am a Senior Manager of our Security Technical Account Management team. We do awesome things like defending companies from nefarious actors.
+My name is Aneel Dadani. I am a Senior Manager of our Security Technical Account Management team at Fastly. We do awesome things like defending companies from nefarious actors.
 
 ### My story
 
