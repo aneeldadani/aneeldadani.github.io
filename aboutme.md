@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: whoami
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+My name is Aneel Dadani. I am a Senior Manager of our Security Technical Account Management team. We do awesome things like defending companies from nefarious actors.
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I started my journey working at McDonald's when I was 14 to selling shoes and clothes at department stores, Old Navy, and even helping my family run their jewelery business. During college I was an IT intern at multiple Fortune 500 companies. After college I became an Information Security Administrator. I've been in Cybersecurity ever since. I'm always looking for ways to break things and make it better.
