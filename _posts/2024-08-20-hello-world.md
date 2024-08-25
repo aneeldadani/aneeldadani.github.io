@@ -1,12 +1,6 @@
 ---
 layout: post
 title: Hello World
-#subtitle: There's lots to learn!
-#gh-repo: daattali/beautiful-jekyll
-#gh-badge: [star, fork, follow]
-#tags: [test]
-#comments: true
-#mathjax: true
 author: Aneel Dadani
 ---
 
