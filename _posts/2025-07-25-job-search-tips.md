@@ -1,5 +1,6 @@
 ---
-title: "Job Search Tips: Insights from Both Sides of the Interview Process"
+title: "Job Search Tips"
+subtitle: "Insights from Both Sides of the Interview Process"
 date: 2025-07-22
 author: "Aneel Dadani"
 layout: post
