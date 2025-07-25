@@ -8,7 +8,7 @@ categories: [career, job-search, professional-development]
 tags: [interviews, networking, career-advice]
 ---
 
-# Job Search Tips: Insights from Both Sides of the Interview Process
+# Job Search Tips
 
 Recently, I was on the job market. I was fortunate enough to be able to transition from one role to another without experiencing some of the challenges a lot of applicants are dealing with in this current job market. I want to help those who are on the job market because I have been on the other side of the interview process, interviewing candidates, and evaluating talent for my team(s) at my current and former employers. Some of these tips are basic, but I am seeing people struggle with this, and I really want to help people.
 
