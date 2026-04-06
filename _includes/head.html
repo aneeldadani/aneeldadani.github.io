@@ -1,0 +1,27 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {% if page.title %}
+    <title>{{ page.title }} | {{ site.title }}</title>
+  {% else %}
+    <title>{{ site.title }}</title>
+  {% endif %}
+
+  {% if page.description %}
+    <meta name="description" content="{{ page.description | strip_html | xml_escape }}">
+  {% elsif site.description %}
+    <meta name="description" content="{{ site.description | strip_html | xml_escape }}">
+  {% endif %}
+
+  <meta name="author" content="{{ site.author }}">
+
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
+  {% assign favicon_exists = site.static_files | where: "path", "/favicon.ico" | size %}
+  {% if favicon_exists == 1 %}
+    <link rel="icon" href="{{ '/favicon.ico' | relative_url }}">
+  {% endif %}
+</head>

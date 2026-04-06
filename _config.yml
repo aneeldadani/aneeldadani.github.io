@@ -1,0 +1,47 @@
+title: AD
+author: Aneel Dadani
+description: "Writing about cybersecurity, AI, and security operations."
+url: "https://aneeldadani.com"
+baseurl: ""
+
+github_username: aneeldadani
+linkedin_username: adadani
+
+avatar: "/assets/img/aneel-avatar.png"
+
+permalink: /:year-:month-:day-:title/
+
+date_format: "%B %-d, %Y"
+
+timezone: "America/Los_Angeles"
+
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+plugins:
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CHANGELOG.md
+  - "*.gemspec"
+  - vendor/
