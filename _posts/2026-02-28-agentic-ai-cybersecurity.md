@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Agentic AI in Cybersecurity: Moving From Automation to Autonomous Security Workflows"
+title: "Agentic AI Applications in Cybersecurity"
 subtitle: "How human-guided AI agents are reshaping security operations"
 date: 2026-02-28
 author: Aneel Dadani
