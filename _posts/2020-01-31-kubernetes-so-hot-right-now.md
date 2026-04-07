@@ -5,8 +5,6 @@ date: 2020-01-31
 tags: [Kubernetes, Certifications, CKA, Containers, Career]
 ---
 
-![Kubernetes so hot right now meme](https://makeameme.org/media/created/kubernetes-so-hot-5e33c7.jpg)
-
 I started my journey getting the lay of the land with the Kubernetes course provided through the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/). The Introduction to Kubernetes course is free to audit. If you want to take the course, complete tests throughout, and receive a certificate, it's $99. The course number is LFS158x — Introduction to Kubernetes. I also signed up for LFS258 — Kubernetes Fundamentals. That one isn't free, but you can bundle it with an exam voucher for $499. The exam by itself is $299.
 
 I've scheduled to take the CKA exam at the end of March. The exam is 3 hours long and conducted online. There are requirements to take it — a webcam and Chrome browser with a browser extension. If you book through CNCF, you get 1 free retake.
