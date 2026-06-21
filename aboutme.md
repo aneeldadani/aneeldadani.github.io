@@ -4,7 +4,7 @@ title: About
 permalink: /aboutme/
 ---
 
-My name is Aneel Dadani. I'm a Senior Manager of the Security Technical Account Management team at Salt Security, where we help companies defend against the kinds of threats that keep security teams up at night.
+My name is Aneel Dadani. I'm a Senior Customer Success Engineer at Reach Security, and I provide independent cybersecurity consulting services to people navigating the ever-evolving challenges of today's age of AI and software development.
 
 I'm passionate about technology, cybersecurity, and the constant challenge of keeping up with a field that never stops moving. Lately that means digging into how AI — and specifically agentic AI — is changing the way security teams work. I find that exciting, not scary.
 
