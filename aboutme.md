@@ -6,13 +6,13 @@ permalink: /aboutme/
 
 My name is Aneel Dadani. I'm a Senior Customer Success Engineer at Reach Security, and I provide independent cybersecurity consulting services to people navigating the ever-evolving challenges of today's age of AI and software development.
 
-I'm passionate about technology, cybersecurity, and the constant challenge of keeping up with a field that never stops moving. Lately that means digging into how AI — and specifically agentic AI — is changing the way security teams work. I find that exciting, not scary.
+I'm passionate about technology, cybersecurity, and the constant challenge of keeping up with a field that never stops moving. Lately that means digging into how AI, and specifically agentic AI, is changing the way security teams work. I find that exciting, not scary.
 
 ### What this blog is
 
-This is a space for tinkerers. I write about things I'm exploring, talks I'm giving, and ideas worth sharing — with the hope that it's useful to others who are figuring things out alongside me. No polished thought leadership, just honest notes from someone who learns by doing.
+This is a space for tinkerers. I write about things I'm exploring, talks I'm giving, and ideas worth sharing, with the hope that it's useful to others who are figuring things out alongside me. No polished thought leadership, just honest notes from someone who learns by doing.
 
-If you're the kind of person who likes to break things, understand how they work, and build something better — you're in the right place.
+If you're the kind of person who likes to break things, understand how they work, and build something better, you're in the right place.
 
 ### My story
 
