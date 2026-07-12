@@ -15,6 +15,8 @@ I want to be clear about something up front: I loved being a leader. Over more t
 
 ## The Real Strain
 
+About two years ago, our family grew — I became a dad. That was the first time in my life I had to learn how to balance family life with work life, and it's a balance I've been working at, imperfectly, ever since.
+
 In my last leadership role, I managed a global team. On paper, that's a great career accomplishment. In practice, it meant my calendar didn't respect a single time zone. Standups with one region meant being online before sunrise. 1:1s and exec syncs with another meant staying logged on well after dinner. Strategic thinking — the kind of deep, uninterrupted work that leadership actually requires — had to get squeezed into whatever gaps were left, which usually meant early mornings or late nights.
 
 Here's the thing about leadership work: it doesn't compress into a tidy 9-to-5. It bleeds into the edges of the day. And those edges — early morning, evening, the in-between moments — are exactly the hours my two-year-old needed me most. I found myself constantly triangulating between three things that all mattered deeply to me: setting the strategic direction my team needed, being genuinely present and supportive for the people I managed, and being home and available for my family. I could usually manage two out of three on any given day. All three, consistently, started to feel impossible.
