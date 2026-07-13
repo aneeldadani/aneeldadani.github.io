@@ -13,13 +13,15 @@ A few months ago, I found myself back on the job market after several years in s
 
 I want to be clear about something up front: I loved being a leader. Over more than five years in senior leadership roles, I got to set strategy, build teams from the ground up, and watch people I mentored grow into roles I knew they were capable of long before they believed it themselves. There's a specific kind of satisfaction in that: multiplying your impact through other people instead of just your own two hands. So when I started applying to roles again, it wasn't because I'd soured on leadership. It's a story about timing, and about what I actually wanted this season of my life to look like.
 
+I'm also still deeply passionate about cybersecurity itself: the technical work, the problem-solving, staying close to the actual craft. That passion never went anywhere. If anything, this move gave me more room to lean back into it directly instead of experiencing it one layer removed, through the people I was leading.
+
 ## The Real Strain
 
 About two years ago, our family grew. I became a dad. That was the first time in my life I had to learn how to balance family life with work life, and it's a balance I've been working at, imperfectly, ever since.
 
 In my last leadership role, I managed a global team. On paper, that's a great career accomplishment. In practice, it meant my calendar didn't respect a single time zone. Standups with one region meant being online before sunrise. 1:1s and exec syncs with another meant staying logged on well after dinner. Strategic thinking (the kind of deep, uninterrupted work that leadership actually requires) had to get squeezed into whatever gaps were left, which usually meant early mornings or late nights.
 
-Here's the thing about leadership work: it doesn't compress into a tidy 9-to-5. It bleeds into the edges of the day. And those edges (early morning, evening, the in-between moments) are exactly the hours my family needed me the most. I found myself constantly triangulating between three things that all mattered deeply to me: setting the strategic direction my team needed, being genuinely present and supportive for the people I managed, and being home and available for my family. I could usually manage two out of three on any given day. All three, consistently, started to feel impossible.
+To be clear, this was never about being unwilling to put in early mornings or work outside a typical 9-to-5. I've always been someone who shows up when the work calls for it, and I still am. What I didn't have was control over when those hours landed. Leadership work bleeds into the edges of the day, and those same edges (early morning, evening, the in-between moments) are exactly the hours my family needed me the most. Setting the strategic direction my team needed, being genuinely present and supportive for the people I managed, and being home and available for my family all mattered deeply to me. What I wanted was the ability to be intentional about how I split my time between them, instead of a five-time-zone schedule making that call for me.
 
 ## The Turning Point
 
@@ -39,7 +41,7 @@ I still have ambitions well beyond this role too, including wanting to run my ow
 
 ## What's Changed Since
 
-The transition itself took some adjusting. There's an identity shift that comes with going from "the person who sets direction" back to "the person who executes it." I won't pretend that was instant or entirely comfortable. But there's also been a lot that's surprisingly good: I get to go deep on the work itself again instead of always operating one layer removed from it. My calendar finally fits inside a normal day. And I'm present for the parts of my daughter's day that used to belong to a standup on the other side of the world.
+The transition itself took some adjusting. There's an identity shift that comes with going from "the person who sets direction" back to "the person who executes it." I won't pretend that was instant or entirely comfortable. But there's also been a lot that's surprisingly good: I get to go deep on the work itself again instead of always operating one layer removed from it. I still take an early call now and then when the work calls for it, but it's a choice I'm making on purpose, not a schedule five time zones are making for me. And I'm present for the parts of my daughter's day that used to belong to a standup on the other side of the world.
 
 ## If You're Considering This Move
 
