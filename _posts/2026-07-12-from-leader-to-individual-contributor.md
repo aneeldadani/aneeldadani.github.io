@@ -37,7 +37,7 @@ Here's the reframe I keep coming back to: choosing IC work wasn't a step back, i
 
 I also want to be clear this isn't a goodbye to leadership. I'm not closing that door, and if the right opportunity comes along, I'll take it. This was never about turning away from leadership. It was about being intentional with how I spend my time, and I trust that whatever comes next, leadership or otherwise, can fit that same intentionality.
 
-I still have ambitions well beyond this role too, including wanting to run my own business and be my own boss someday. That goal hasn't disappeared, it's just not this season's goal. Leadership, entrepreneurship, whatever comes next: it can all wait its turn without vanishing.
+I still have ambitions well beyond this role too, including wanting to run my own business and be my own boss someday. That goal hasn't disappeared, it's just not something I'm actively chasing right now. Leadership, entrepreneurship, whatever comes next: I'm staying open to it, whenever it shows up.
 
 ## What's Changed Since
 
@@ -50,7 +50,7 @@ A few things I'd offer to anyone quietly wondering if this is the right call for
 1. **Define success on your own terms, not the org chart's.** The next title up is only a win if it actually gets you closer to what you want your life to look like.
 2. **Talk to people who've made this move.** Ask them how it went, honestly. Normalizing the conversation is half the battle. I wish I'd asked sooner.
 3. **Get clear on your "why" before you start applying.** You'll need to explain it (to interviewers, to your network, and mostly to yourself), and it's a lot easier to do that without apology when you're clear on the reason.
-4. **Remember it's a season, not a life sentence.** Leadership can be a door you walk back through later. Choosing IC work now doesn't mean choosing it forever.
+4. **Remember it's reversible.** Leadership is a door you can walk back through whenever the right opportunity comes along. Choosing IC work doesn't close it.
 
 And if you're in the thick of the job search itself, the advice I shared in [Job Search Tips](https://aneeldadani.com/2025-07-25-job-search-tips/) still holds up here too. None of it changes just because you're targeting a different kind of role.
 
