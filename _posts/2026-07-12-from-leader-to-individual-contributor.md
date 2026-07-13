@@ -35,7 +35,7 @@ That decision came with real trade-offs, and I don't want to gloss over them. Ma
 
 Here's the reframe I keep coming back to: choosing IC work wasn't a step back, it was a step toward something. Title and scope are external metrics: things other people can see and rank. What I actually wanted was internal alignment: a life that matched what mattered to me in this specific season. Choosing that isn't giving up on ambition; it's redirecting it toward a goal that a job title was never going to capture anyway.
 
-I also want to be clear this isn't a permanent goodbye to leadership. I'm not closing that door. I fully expect I'll lead a team again if the right opportunity comes along at the right time. But "the right time" isn't right now, and I'm at peace with that. This is a "for now," not a "forever."
+I also want to be clear this isn't a goodbye to leadership. I'm not closing that door, and if the right opportunity comes along, I'll take it. This was never about turning away from leadership. It was about being intentional with how I spend my time, and I trust that whatever comes next, leadership or otherwise, can fit that same intentionality.
 
 I still have ambitions well beyond this role too, including wanting to run my own business and be my own boss someday. That goal hasn't disappeared, it's just not this season's goal. Leadership, entrepreneurship, whatever comes next: it can all wait its turn without vanishing.
 
