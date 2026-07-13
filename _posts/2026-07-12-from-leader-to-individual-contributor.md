@@ -39,7 +39,7 @@ I still have ambitions well beyond this role too, including wanting to run my ow
 
 ## What's Changed Since
 
-The transition itself took some adjusting. There's an identity shift that comes with going from "the person who sets direction" back to "the person who executes it." I won't pretend that was instant or entirely comfortable. But there's also been a lot that's surprisingly good: I get to go deep on the work itself again instead of always operating one layer removed from it. My calendar finally fits inside a normal day. And I'm home for the parts of my daughter's day that used to belong to a standup on the other side of the world.
+The transition itself took some adjusting. There's an identity shift that comes with going from "the person who sets direction" back to "the person who executes it." I won't pretend that was instant or entirely comfortable. But there's also been a lot that's surprisingly good: I get to go deep on the work itself again instead of always operating one layer removed from it. My calendar finally fits inside a normal day. And I'm present for the parts of my daughter's day that used to belong to a standup on the other side of the world.
 
 ## If You're Considering This Move
 
