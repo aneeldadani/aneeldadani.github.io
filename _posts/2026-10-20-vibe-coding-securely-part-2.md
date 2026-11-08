@@ -38,4 +38,4 @@ The agent rules and a tested pre-commit hook that enforces both habits are in th
 
 **Previous:** [Part 1: Context and Review](/2026-10-13-vibe-coding-securely-part-1/)
 
-**Next:** Part 3: Dependencies and Attacker Testing (coming soon)
+**Next:** [Part 3: Dependencies and Attacker Testing](/2026-10-27-vibe-coding-securely-part-3/)
